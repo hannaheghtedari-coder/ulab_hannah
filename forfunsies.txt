@@ -1,0 +1,5 @@
+Favorite Things:
+- drink: pineapple juice
+- food spot: Chipotle
+- hobby: reading
+
